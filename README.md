@@ -1,4 +1,4 @@
-# COMP1001-Calculator
+## COMP1001-Calculator
 
 Before starting, please install:
 Numpy and matplotlib librariers
