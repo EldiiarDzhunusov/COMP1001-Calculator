@@ -1,0 +1,2 @@
+import mathlab
+mathlab.page()
