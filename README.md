@@ -8,7 +8,7 @@ You can do that using PIP:
 pip install numpy
 pip install matplotlib
 ```
-## To start working with the Calculator, run Run.py code file
+## To start working with the Calculator, run Run.py code
 
 ![](img/pic1.png)
 ![](img/pic2.png)
